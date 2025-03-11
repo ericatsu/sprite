@@ -13,60 +13,60 @@
             "frame": {
                 "x": 0,
                 "y": 0,
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             },
             "rotated": false,
             "trimmed": false,
             "spriteSourceSize": {
                 "x": 0,
                 "y": 0,
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             },
             "sourceSize": {
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             }
         },
         "h": {
             "frame": {
-                "x": 64,
+                "x": 24,
                 "y": 0,
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             },
             "rotated": false,
             "trimmed": false,
             "spriteSourceSize": {
                 "x": 0,
                 "y": 0,
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             },
             "sourceSize": {
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             }
         },
         "hospital": {
             "frame": {
-                "x": 128,
+                "x": 48,
                 "y": 0,
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             },
             "rotated": false,
             "trimmed": false,
             "spriteSourceSize": {
                 "x": 0,
                 "y": 0,
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             },
             "sourceSize": {
-                "w": 64,
-                "h": 64
+                "w": 24,
+                "h": 24
             }
         }
     }

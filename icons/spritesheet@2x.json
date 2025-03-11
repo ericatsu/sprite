@@ -1,6 +1,6 @@
 {
     "meta": {
-        "image": "https://raw.githubusercontent.com/ericatsu/sprite/main/icons/spritesheet.png",
+        "image": "https://raw.githubusercontent.com/ericatsu/sprite/main/icons/spritesheet@2x.png",
         "format": "RGBA8888",
         "size": {
             "w": 1024,
@@ -13,60 +13,60 @@
             "frame": {
                 "x": 0,
                 "y": 0,
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             },
             "rotated": false,
             "trimmed": false,
             "spriteSourceSize": {
                 "x": 0,
                 "y": 0,
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             },
             "sourceSize": {
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             }
         },
         "h": {
             "frame": {
-                "x": 128,
+                "x": 48,
                 "y": 0,
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             },
             "rotated": false,
             "trimmed": false,
             "spriteSourceSize": {
                 "x": 0,
                 "y": 0,
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             },
             "sourceSize": {
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             }
         },
         "hospital": {
             "frame": {
-                "x": 256,
+                "x": 96,
                 "y": 0,
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             },
             "rotated": false,
             "trimmed": false,
             "spriteSourceSize": {
                 "x": 0,
                 "y": 0,
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             },
             "sourceSize": {
-                "w": 128,
-                "h": 128
+                "w": 48,
+                "h": 48
             }
         }
     }
