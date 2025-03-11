@@ -1,6 +1,6 @@
 {
     "meta": {
-        "image": "icons/spritesheet.png",
+        "image": "https://raw.githubusercontent.com/ericatsu/sprite/main/icons/spritesheet",
         "format": "RGBA8888",
         "size": {
             "w": 512,
